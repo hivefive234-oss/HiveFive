@@ -1,0 +1,781 @@
+timestamp,colony_id,hive_health_status,true_class,predicted_class,predicted_hive_health,prediction_probability
+2025-04-19 10:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 10:00:00,Hive_08,Critical,2,2,Critical,0.80174005
+2025-04-19 10:00:00,Hive_10,At Risk,1,1,At Risk,0.99795544
+2025-04-19 10:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 10:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 10:00:00,Hive_09,At Risk,1,1,At Risk,0.9981329
+2025-04-19 10:00:00,Hive_07,Critical,2,2,Critical,0.88469976
+2025-04-19 10:00:00,Hive_06,Critical,2,2,Critical,0.91277295
+2025-04-19 10:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 10:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 11:00:00,Hive_10,At Risk,1,1,At Risk,0.9981047
+2025-04-19 11:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 11:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 11:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 11:00:00,Hive_08,Critical,2,1,At Risk,0.858813
+2025-04-19 11:00:00,Hive_06,Critical,2,2,Critical,0.90075046
+2025-04-19 11:00:00,Hive_09,At Risk,1,1,At Risk,0.99841404
+2025-04-19 11:00:00,Hive_07,Critical,2,2,Critical,0.9163388
+2025-04-19 11:00:00,Hive_04,Healthy,0,0,Healthy,0.9996635
+2025-04-19 11:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 12:00:00,Hive_06,Critical,2,2,Critical,0.905114
+2025-04-19 12:00:00,Hive_08,Critical,2,2,Critical,0.75822747
+2025-04-19 12:00:00,Hive_03,Healthy,0,0,Healthy,0.9996692
+2025-04-19 12:00:00,Hive_09,At Risk,1,1,At Risk,0.9980385
+2025-04-19 12:00:00,Hive_07,Critical,2,2,Critical,0.72493935
+2025-04-19 12:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 12:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 12:00:00,Hive_10,At Risk,1,1,At Risk,0.9979196
+2025-04-19 12:00:00,Hive_01,Healthy,0,0,Healthy,0.9996635
+2025-04-19 12:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 13:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 13:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 13:00:00,Hive_03,Healthy,0,0,Healthy,0.9996778
+2025-04-19 13:00:00,Hive_09,At Risk,1,1,At Risk,0.9984321
+2025-04-19 13:00:00,Hive_06,Critical,2,2,Critical,0.90117025
+2025-04-19 13:00:00,Hive_10,At Risk,1,1,At Risk,0.9979208
+2025-04-19 13:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 13:00:00,Hive_08,Critical,2,2,Critical,0.82965714
+2025-04-19 13:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 13:00:00,Hive_07,Critical,2,2,Critical,0.9121088
+2025-04-19 14:00:00,Hive_06,Critical,2,2,Critical,0.9099788
+2025-04-19 14:00:00,Hive_07,Critical,2,2,Critical,0.9070968
+2025-04-19 14:00:00,Hive_08,Critical,2,2,Critical,0.8837368
+2025-04-19 14:00:00,Hive_09,At Risk,1,1,At Risk,0.99659973
+2025-04-19 14:00:00,Hive_02,Healthy,0,0,Healthy,0.9996712
+2025-04-19 14:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 14:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 14:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 14:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 14:00:00,Hive_10,At Risk,1,1,At Risk,0.9931908
+2025-04-19 15:00:00,Hive_06,Critical,2,2,Critical,0.9026161
+2025-04-19 15:00:00,Hive_08,Critical,2,2,Critical,0.68618697
+2025-04-19 15:00:00,Hive_04,Healthy,0,0,Healthy,0.9996704
+2025-04-19 15:00:00,Hive_09,At Risk,1,1,At Risk,0.998338
+2025-04-19 15:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 15:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 15:00:00,Hive_07,Critical,2,2,Critical,0.90667784
+2025-04-19 15:00:00,Hive_05,Healthy,0,0,Healthy,0.9996778
+2025-04-19 15:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 15:00:00,Hive_10,At Risk,1,1,At Risk,0.99828833
+2025-04-19 16:00:00,Hive_07,Critical,2,2,Critical,0.91815996
+2025-04-19 16:00:00,Hive_08,Critical,2,2,Critical,0.89426166
+2025-04-19 16:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 16:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 16:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 16:00:00,Hive_06,Critical,2,2,Critical,0.85473895
+2025-04-19 16:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 16:00:00,Hive_09,At Risk,1,1,At Risk,0.99475783
+2025-04-19 16:00:00,Hive_10,At Risk,1,1,At Risk,0.998162
+2025-04-19 16:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 17:00:00,Hive_08,Critical,2,2,Critical,0.8881093
+2025-04-19 17:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 17:00:00,Hive_07,Critical,2,2,Critical,0.8781774
+2025-04-19 17:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 17:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 17:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 17:00:00,Hive_09,At Risk,1,1,At Risk,0.9976597
+2025-04-19 17:00:00,Hive_06,Critical,2,2,Critical,0.8666369
+2025-04-19 17:00:00,Hive_10,At Risk,1,1,At Risk,0.9984149
+2025-04-19 17:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 18:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 18:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 18:00:00,Hive_07,Critical,2,2,Critical,0.912359
+2025-04-19 18:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 18:00:00,Hive_06,Critical,2,2,Critical,0.6571575
+2025-04-19 18:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 18:00:00,Hive_10,At Risk,1,1,At Risk,0.99829406
+2025-04-19 18:00:00,Hive_09,At Risk,1,1,At Risk,0.99708146
+2025-04-19 18:00:00,Hive_02,Healthy,0,0,Healthy,0.9996704
+2025-04-19 18:00:00,Hive_08,Critical,2,2,Critical,0.9108581
+2025-04-19 19:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 19:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 19:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 19:00:00,Hive_09,At Risk,1,1,At Risk,0.99823296
+2025-04-19 19:00:00,Hive_06,Critical,2,2,Critical,0.8440478
+2025-04-19 19:00:00,Hive_10,At Risk,1,1,At Risk,0.99804735
+2025-04-19 19:00:00,Hive_08,Critical,2,2,Critical,0.9167739
+2025-04-19 19:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 19:00:00,Hive_07,Critical,2,2,Critical,0.82163286
+2025-04-19 19:00:00,Hive_02,Healthy,0,0,Healthy,0.9996724
+2025-04-19 20:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 20:00:00,Hive_10,At Risk,1,1,At Risk,0.99843556
+2025-04-19 20:00:00,Hive_03,Healthy,0,0,Healthy,0.9996704
+2025-04-19 20:00:00,Hive_09,At Risk,1,1,At Risk,0.9984382
+2025-04-19 20:00:00,Hive_06,Critical,2,2,Critical,0.9115802
+2025-04-19 20:00:00,Hive_07,Critical,2,2,Critical,0.91671735
+2025-04-19 20:00:00,Hive_02,Healthy,0,0,Healthy,0.9996724
+2025-04-19 20:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 20:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 20:00:00,Hive_08,Critical,2,2,Critical,0.88168615
+2025-04-19 21:00:00,Hive_10,At Risk,1,1,At Risk,0.9981439
+2025-04-19 21:00:00,Hive_06,Critical,2,2,Critical,0.9118768
+2025-04-19 21:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 21:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 21:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 21:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 21:00:00,Hive_07,Critical,2,2,Critical,0.9067759
+2025-04-19 21:00:00,Hive_09,At Risk,1,1,At Risk,0.9975898
+2025-04-19 21:00:00,Hive_04,Healthy,0,0,Healthy,0.9996724
+2025-04-19 21:00:00,Hive_08,Critical,2,2,Critical,0.90045613
+2025-04-19 22:00:00,Hive_10,At Risk,1,1,At Risk,0.9978993
+2025-04-19 22:00:00,Hive_09,At Risk,1,1,At Risk,0.9979838
+2025-04-19 22:00:00,Hive_08,Critical,2,2,Critical,0.87817633
+2025-04-19 22:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 22:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 22:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 22:00:00,Hive_06,Critical,2,2,Critical,0.90275216
+2025-04-19 22:00:00,Hive_07,Critical,2,2,Critical,0.9018233
+2025-04-19 22:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-19 22:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-19 23:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-19 23:00:00,Hive_07,Critical,2,2,Critical,0.86721
+2025-04-19 23:00:00,Hive_04,Healthy,0,0,Healthy,0.9993808
+2025-04-19 23:00:00,Hive_10,At Risk,1,1,At Risk,0.99521106
+2025-04-19 23:00:00,Hive_09,At Risk,1,1,At Risk,0.9960437
+2025-04-19 23:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-19 23:00:00,Hive_08,Critical,2,2,Critical,0.9061371
+2025-04-19 23:00:00,Hive_06,Critical,2,2,Critical,0.9118768
+2025-04-19 23:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-19 23:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 00:00:00,Hive_07,Critical,2,2,Critical,0.91860116
+2025-04-20 00:00:00,Hive_08,Critical,2,2,Critical,0.91551685
+2025-04-20 00:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 00:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 00:00:00,Hive_06,Critical,2,2,Critical,0.9147547
+2025-04-20 00:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 00:00:00,Hive_10,At Risk,1,1,At Risk,0.9982424
+2025-04-20 00:00:00,Hive_09,At Risk,1,1,At Risk,0.99824893
+2025-04-20 00:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 00:00:00,Hive_01,Healthy,0,0,Healthy,0.99967575
+2025-04-20 01:00:00,Hive_10,At Risk,1,1,At Risk,0.9982437
+2025-04-20 01:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 01:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 01:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 01:00:00,Hive_09,At Risk,1,1,At Risk,0.9978967
+2025-04-20 01:00:00,Hive_08,Critical,2,2,Critical,0.8499878
+2025-04-20 01:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 01:00:00,Hive_06,Critical,2,2,Critical,0.91152555
+2025-04-20 01:00:00,Hive_07,Critical,2,2,Critical,0.91200817
+2025-04-20 01:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 02:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 02:00:00,Hive_07,Critical,2,2,Critical,0.9106655
+2025-04-20 02:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 02:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 02:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 02:00:00,Hive_08,Critical,2,2,Critical,0.8582613
+2025-04-20 02:00:00,Hive_10,At Risk,1,1,At Risk,0.9981761
+2025-04-20 02:00:00,Hive_06,Critical,2,2,Critical,0.8307438
+2025-04-20 02:00:00,Hive_09,At Risk,1,1,At Risk,0.95468426
+2025-04-20 02:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 03:00:00,Hive_06,Critical,2,2,Critical,0.9024832
+2025-04-20 03:00:00,Hive_07,Critical,2,2,Critical,0.9124247
+2025-04-20 03:00:00,Hive_08,Critical,2,1,At Risk,0.61963123
+2025-04-20 03:00:00,Hive_09,At Risk,1,1,At Risk,0.99820566
+2025-04-20 03:00:00,Hive_10,At Risk,1,1,At Risk,0.9970283
+2025-04-20 04:00:00,Hive_09,At Risk,1,1,At Risk,0.9982728
+2025-04-20 04:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 04:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 04:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 04:00:00,Hive_08,Critical,2,2,Critical,0.894359
+2025-04-20 04:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 04:00:00,Hive_10,At Risk,1,1,At Risk,0.99823475
+2025-04-20 04:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 04:00:00,Hive_06,Critical,2,2,Critical,0.91240406
+2025-04-20 04:00:00,Hive_02,Healthy,0,0,Healthy,0.9996724
+2025-04-20 05:00:00,Hive_10,At Risk,1,1,At Risk,0.9982322
+2025-04-20 05:00:00,Hive_08,Critical,2,2,Critical,0.9067759
+2025-04-20 05:00:00,Hive_09,At Risk,1,1,At Risk,0.9982224
+2025-04-20 05:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 05:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 05:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 05:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 05:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 05:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 05:00:00,Hive_06,Critical,2,2,Critical,0.9169776
+2025-04-20 06:00:00,Hive_07,Critical,2,2,Critical,0.9026054
+2025-04-20 06:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 06:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 06:00:00,Hive_06,Critical,2,2,Critical,0.88968796
+2025-04-20 06:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 06:00:00,Hive_09,At Risk,1,1,At Risk,0.9984226
+2025-04-20 06:00:00,Hive_10,At Risk,1,1,At Risk,0.99826884
+2025-04-20 06:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 06:00:00,Hive_08,Critical,2,2,Critical,0.89704293
+2025-04-20 06:00:00,Hive_03,Healthy,0,0,Healthy,0.9996704
+2025-04-20 07:00:00,Hive_06,Critical,2,2,Critical,0.91268307
+2025-04-20 07:00:00,Hive_10,At Risk,1,1,At Risk,0.99788046
+2025-04-20 07:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 07:00:00,Hive_09,At Risk,1,1,At Risk,0.9983833
+2025-04-20 07:00:00,Hive_05,Healthy,0,0,Healthy,0.99966705
+2025-04-20 07:00:00,Hive_07,Critical,2,2,Critical,0.7939995
+2025-04-20 07:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 07:00:00,Hive_08,Critical,2,2,Critical,0.8999698
+2025-04-20 07:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 07:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 08:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 08:00:00,Hive_06,Critical,2,2,Critical,0.8596543
+2025-04-20 08:00:00,Hive_08,Critical,2,2,Critical,0.9129868
+2025-04-20 08:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 08:00:00,Hive_09,At Risk,1,1,At Risk,0.9978263
+2025-04-20 08:00:00,Hive_10,At Risk,1,1,At Risk,0.99822086
+2025-04-20 08:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 08:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 08:00:00,Hive_04,Healthy,0,0,Healthy,0.9996755
+2025-04-20 08:00:00,Hive_07,Critical,2,2,Critical,0.9129868
+2025-04-20 09:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 09:00:00,Hive_09,At Risk,1,1,At Risk,0.9983468
+2025-04-20 09:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 09:00:00,Hive_08,Critical,2,2,Critical,0.9169776
+2025-04-20 09:00:00,Hive_10,At Risk,1,1,At Risk,0.99842995
+2025-04-20 09:00:00,Hive_06,Critical,2,2,Critical,0.8681884
+2025-04-20 09:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 09:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 09:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 09:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 10:00:00,Hive_09,At Risk,1,1,At Risk,0.99785596
+2025-04-20 10:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 10:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 10:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 10:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 10:00:00,Hive_08,Critical,2,2,Critical,0.8759833
+2025-04-20 10:00:00,Hive_02,Healthy,0,0,Healthy,0.998645
+2025-04-20 10:00:00,Hive_10,At Risk,1,1,At Risk,0.9983657
+2025-04-20 10:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 10:00:00,Hive_06,Critical,2,2,Critical,0.91268307
+2025-04-20 11:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 11:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 11:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 11:00:00,Hive_10,At Risk,1,1,At Risk,0.9983972
+2025-04-20 11:00:00,Hive_08,Critical,2,2,Critical,0.91638637
+2025-04-20 11:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 11:00:00,Hive_07,Critical,2,2,Critical,0.9129868
+2025-04-20 11:00:00,Hive_06,Critical,2,2,Critical,0.90885615
+2025-04-20 11:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 11:00:00,Hive_09,At Risk,1,1,At Risk,0.997154
+2025-04-20 12:00:00,Hive_01,Healthy,0,0,Healthy,0.9996724
+2025-04-20 12:00:00,Hive_07,Critical,2,2,Critical,0.9109422
+2025-04-20 12:00:00,Hive_06,Critical,2,2,Critical,0.9104944
+2025-04-20 12:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 12:00:00,Hive_10,At Risk,1,1,At Risk,0.9983052
+2025-04-20 12:00:00,Hive_09,At Risk,1,1,At Risk,0.9979734
+2025-04-20 12:00:00,Hive_05,Healthy,0,0,Healthy,0.9996506
+2025-04-20 12:00:00,Hive_02,Healthy,0,0,Healthy,0.9996778
+2025-04-20 12:00:00,Hive_08,Critical,2,2,Critical,0.90595216
+2025-04-20 12:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 13:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 13:00:00,Hive_08,Critical,2,2,Critical,0.8541964
+2025-04-20 13:00:00,Hive_01,Healthy,0,0,Healthy,0.9996778
+2025-04-20 13:00:00,Hive_09,At Risk,1,1,At Risk,0.9982632
+2025-04-20 13:00:00,Hive_06,Critical,2,2,Critical,0.91743
+2025-04-20 13:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 13:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 13:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 13:00:00,Hive_07,Critical,2,2,Critical,0.90894955
+2025-04-20 13:00:00,Hive_10,At Risk,1,1,At Risk,0.9982516
+2025-04-20 14:00:00,Hive_10,Critical,2,2,Critical,0.49499452
+2025-04-20 14:00:00,Hive_07,Critical,2,2,Critical,0.89583206
+2025-04-20 14:00:00,Hive_01,Healthy,0,0,Healthy,0.9996778
+2025-04-20 14:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 14:00:00,Hive_09,Critical,2,1,At Risk,0.3757968
+2025-04-20 14:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 14:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 14:00:00,Hive_06,Critical,2,2,Critical,0.90689015
+2025-04-20 14:00:00,Hive_04,Healthy,0,0,Healthy,0.99965835
+2025-04-20 14:00:00,Hive_08,Critical,2,2,Critical,0.90765077
+2025-04-20 15:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 15:00:00,Hive_07,Critical,2,2,Critical,0.8701034
+2025-04-20 15:00:00,Hive_06,Critical,2,2,Critical,0.91800165
+2025-04-20 15:00:00,Hive_10,Critical,2,2,Critical,0.85658675
+2025-04-20 15:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 15:00:00,Hive_08,Critical,2,2,Critical,0.8893761
+2025-04-20 15:00:00,Hive_09,Critical,2,1,At Risk,0.8629933
+2025-04-20 15:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 15:00:00,Hive_04,Healthy,0,0,Healthy,0.9996778
+2025-04-20 15:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 16:00:00,Hive_09,Critical,2,2,Critical,0.68356097
+2025-04-20 16:00:00,Hive_07,Critical,2,2,Critical,0.74346197
+2025-04-20 16:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 16:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 16:00:00,Hive_06,Critical,2,2,Critical,0.9169776
+2025-04-20 16:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 16:00:00,Hive_01,Healthy,0,0,Healthy,0.9996778
+2025-04-20 16:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 16:00:00,Hive_10,Critical,2,2,Critical,0.870353
+2025-04-20 16:00:00,Hive_08,Critical,2,2,Critical,0.9121167
+2025-04-20 17:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 17:00:00,Hive_09,Critical,2,2,Critical,0.93564326
+2025-04-20 17:00:00,Hive_06,Critical,2,2,Critical,0.77180874
+2025-04-20 17:00:00,Hive_04,Healthy,0,0,Healthy,0.99967897
+2025-04-20 17:00:00,Hive_07,Critical,2,2,Critical,0.9182756
+2025-04-20 17:00:00,Hive_10,Critical,2,2,Critical,0.8938947
+2025-04-20 17:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 17:00:00,Hive_08,Critical,2,2,Critical,0.9094799
+2025-04-20 17:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 17:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 18:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 18:00:00,Hive_07,Critical,2,2,Critical,0.9133109
+2025-04-20 18:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 18:00:00,Hive_08,Critical,2,2,Critical,0.90290815
+2025-04-20 18:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 18:00:00,Hive_01,Healthy,0,0,Healthy,0.9996724
+2025-04-20 18:00:00,Hive_09,Critical,2,2,Critical,0.91243976
+2025-04-20 18:00:00,Hive_06,Critical,2,2,Critical,0.856846
+2025-04-20 18:00:00,Hive_10,Critical,2,2,Critical,0.9121222
+2025-04-20 18:00:00,Hive_04,Healthy,0,0,Healthy,0.99967575
+2025-04-20 19:00:00,Hive_08,Critical,2,2,Critical,0.91324604
+2025-04-20 19:00:00,Hive_10,Critical,2,2,Critical,0.91065747
+2025-04-20 19:00:00,Hive_09,Critical,2,2,Critical,0.8414896
+2025-04-20 19:00:00,Hive_06,Critical,2,2,Critical,0.65216994
+2025-04-20 19:00:00,Hive_04,Healthy,0,0,Healthy,0.99967575
+2025-04-20 19:00:00,Hive_03,Healthy,0,0,Healthy,0.9996704
+2025-04-20 19:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 19:00:00,Hive_07,Critical,2,2,Critical,0.9136068
+2025-04-20 19:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 19:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 20:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 20:00:00,Hive_08,Critical,2,1,At Risk,0.6457375
+2025-04-20 20:00:00,Hive_10,Critical,2,2,Critical,0.91119134
+2025-04-20 20:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 20:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 20:00:00,Hive_09,Critical,2,2,Critical,0.88809454
+2025-04-20 20:00:00,Hive_04,Healthy,0,0,Healthy,0.99967253
+2025-04-20 20:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 20:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 20:00:00,Hive_06,Critical,2,2,Critical,0.856846
+2025-04-20 21:00:00,Hive_10,Critical,2,2,Critical,0.750221
+2025-04-20 21:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 21:00:00,Hive_09,Critical,2,2,Critical,0.82797
+2025-04-20 21:00:00,Hive_04,Healthy,0,0,Healthy,0.99967575
+2025-04-20 21:00:00,Hive_06,Critical,2,2,Critical,0.856846
+2025-04-20 21:00:00,Hive_08,Critical,2,2,Critical,0.9116969
+2025-04-20 21:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 21:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 21:00:00,Hive_07,Critical,2,2,Critical,0.91324604
+2025-04-20 21:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 22:00:00,Hive_10,Critical,2,2,Critical,0.9140306
+2025-04-20 22:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 22:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 22:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 22:00:00,Hive_09,Critical,2,2,Critical,0.9005335
+2025-04-20 22:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 22:00:00,Hive_07,Critical,2,2,Critical,0.907921
+2025-04-20 22:00:00,Hive_04,Healthy,0,0,Healthy,0.99967575
+2025-04-20 22:00:00,Hive_08,Critical,2,2,Critical,0.8235917
+2025-04-20 22:00:00,Hive_06,Critical,2,2,Critical,0.90584385
+2025-04-20 23:00:00,Hive_02,Healthy,0,0,Healthy,0.99967897
+2025-04-20 23:00:00,Hive_06,Critical,2,2,Critical,0.8333006
+2025-04-20 23:00:00,Hive_07,Critical,2,2,Critical,0.8199607
+2025-04-20 23:00:00,Hive_05,Healthy,0,0,Healthy,0.99967897
+2025-04-20 23:00:00,Hive_08,Critical,2,2,Critical,0.9116969
+2025-04-20 23:00:00,Hive_03,Healthy,0,0,Healthy,0.99967897
+2025-04-20 23:00:00,Hive_01,Healthy,0,0,Healthy,0.99967897
+2025-04-20 23:00:00,Hive_10,Critical,2,2,Critical,0.89558595
+2025-04-20 23:00:00,Hive_04,Healthy,0,0,Healthy,0.99967575
+2025-04-20 23:00:00,Hive_09,Critical,2,2,Critical,0.89629304
+2025-04-21 00:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 00:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 00:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 00:00:00,Hive_07,Critical,2,2,Critical,0.9962763
+2025-04-21 00:00:00,Hive_06,Critical,2,2,Critical,0.9966518
+2025-04-21 00:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 00:00:00,Hive_09,Critical,2,2,Critical,0.99789536
+2025-04-21 00:00:00,Hive_08,Critical,2,2,Critical,0.9970138
+2025-04-21 00:00:00,Hive_02,Healthy,0,0,Healthy,0.99968135
+2025-04-21 00:00:00,Hive_10,Critical,2,2,Critical,0.99319094
+2025-04-21 01:00:00,Hive_09,Critical,2,2,Critical,0.9968579
+2025-04-21 01:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 01:00:00,Hive_08,Critical,2,2,Critical,0.9977018
+2025-04-21 01:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 01:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 01:00:00,Hive_05,Healthy,0,0,Healthy,0.99939644
+2025-04-21 01:00:00,Hive_06,Critical,2,2,Critical,0.99780124
+2025-04-21 01:00:00,Hive_07,Critical,2,2,Critical,0.9976974
+2025-04-21 01:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 01:00:00,Hive_10,Critical,2,2,Critical,0.99711144
+2025-04-21 02:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 02:00:00,Hive_10,Critical,2,2,Critical,0.99792176
+2025-04-21 02:00:00,Hive_08,Critical,2,2,Critical,0.9938898
+2025-04-21 02:00:00,Hive_06,Critical,2,2,Critical,0.99772924
+2025-04-21 02:00:00,Hive_02,Healthy,0,0,Healthy,0.99968016
+2025-04-21 02:00:00,Hive_01,Healthy,0,0,Healthy,0.99968445
+2025-04-21 02:00:00,Hive_09,Critical,2,2,Critical,0.99766845
+2025-04-21 02:00:00,Hive_07,Critical,2,2,Critical,0.99772924
+2025-04-21 02:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 02:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 03:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 03:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 03:00:00,Hive_10,Critical,2,2,Critical,0.9977336
+2025-04-21 03:00:00,Hive_09,Critical,2,2,Critical,0.99789655
+2025-04-21 03:00:00,Hive_06,Critical,2,2,Critical,0.9950117
+2025-04-21 03:00:00,Hive_01,Healthy,0,0,Healthy,0.99968445
+2025-04-21 03:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 03:00:00,Hive_07,Critical,2,2,Critical,0.9976846
+2025-04-21 03:00:00,Hive_03,Healthy,0,0,Healthy,0.99968135
+2025-04-21 03:00:00,Hive_08,Critical,2,2,Critical,0.99772924
+2025-04-21 04:00:00,Hive_06,Critical,2,2,Critical,0.99734145
+2025-04-21 04:00:00,Hive_09,Critical,2,2,Critical,0.9977825
+2025-04-21 04:00:00,Hive_07,Critical,2,2,Critical,0.997771
+2025-04-21 04:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 04:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 04:00:00,Hive_08,Critical,2,2,Critical,0.99773777
+2025-04-21 04:00:00,Hive_03,Healthy,0,0,Healthy,0.99968135
+2025-04-21 04:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 04:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 04:00:00,Hive_10,Critical,2,2,Critical,0.99792176
+2025-04-21 05:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 05:00:00,Hive_10,Critical,2,2,Critical,0.99781823
+2025-04-21 05:00:00,Hive_09,Critical,2,2,Critical,0.9960283
+2025-04-21 05:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 05:00:00,Hive_08,Critical,2,2,Critical,0.99772257
+2025-04-21 05:00:00,Hive_01,Healthy,0,0,Healthy,0.999678
+2025-04-21 05:00:00,Hive_04,Healthy,0,0,Healthy,0.9996761
+2025-04-21 05:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 05:00:00,Hive_06,Critical,2,2,Critical,0.99773777
+2025-04-21 05:00:00,Hive_07,Critical,2,2,Critical,0.9970373
+2025-04-21 06:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 06:00:00,Hive_06,Critical,2,2,Critical,0.9958528
+2025-04-21 06:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 06:00:00,Hive_10,Critical,2,2,Critical,0.9978241
+2025-04-21 06:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 06:00:00,Hive_08,Critical,2,2,Critical,0.9969332
+2025-04-21 06:00:00,Hive_07,Critical,2,2,Critical,0.9975908
+2025-04-21 06:00:00,Hive_09,Critical,2,2,Critical,0.9979176
+2025-04-21 06:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 06:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 07:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 07:00:00,Hive_09,Critical,2,2,Critical,0.9955388
+2025-04-21 07:00:00,Hive_08,Critical,2,2,Critical,0.9977913
+2025-04-21 07:00:00,Hive_07,Critical,2,2,Critical,0.99789137
+2025-04-21 07:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 07:00:00,Hive_06,Critical,2,2,Critical,0.9909338
+2025-04-21 07:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 07:00:00,Hive_10,Critical,2,2,Critical,0.99774253
+2025-04-21 07:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 07:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 08:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 08:00:00,Hive_07,Critical,2,2,Critical,0.9977475
+2025-04-21 08:00:00,Hive_08,Critical,2,2,Critical,0.99789137
+2025-04-21 08:00:00,Hive_09,Critical,2,2,Critical,0.99586356
+2025-04-21 08:00:00,Hive_06,Critical,2,2,Critical,0.9974744
+2025-04-21 08:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 08:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 08:00:00,Hive_10,Critical,2,2,Critical,0.99657047
+2025-04-21 08:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 08:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 09:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 09:00:00,Hive_06,Critical,2,2,Critical,0.9910613
+2025-04-21 09:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 09:00:00,Hive_10,Critical,2,2,Critical,0.99774253
+2025-04-21 09:00:00,Hive_08,Critical,2,2,Critical,0.9967145
+2025-04-21 09:00:00,Hive_09,Critical,2,2,Critical,0.9978114
+2025-04-21 09:00:00,Hive_07,Critical,2,2,Critical,0.9951055
+2025-04-21 09:00:00,Hive_05,Healthy,0,0,Healthy,0.99968135
+2025-04-21 09:00:00,Hive_04,Healthy,0,0,Healthy,0.99968445
+2025-04-21 09:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_06,At Risk,1,1,At Risk,0.5922084
+2025-04-21 10:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_10,Critical,2,2,Critical,0.9976864
+2025-04-21 10:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 10:00:00,Hive_08,At Risk,1,1,At Risk,0.7049444
+2025-04-21 10:00:00,Hive_07,At Risk,1,1,At Risk,0.82070017
+2025-04-21 10:00:00,Hive_09,Critical,2,2,Critical,0.9946989
+2025-04-21 11:00:00,Hive_10,Critical,2,2,Critical,0.9977963
+2025-04-21 11:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 11:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 11:00:00,Hive_07,At Risk,1,1,At Risk,0.6989807
+2025-04-21 11:00:00,Hive_09,Critical,2,2,Critical,0.9978173
+2025-04-21 11:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 11:00:00,Hive_08,At Risk,1,2,Critical,0.91494095
+2025-04-21 11:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 11:00:00,Hive_06,At Risk,1,1,At Risk,0.83984643
+2025-04-21 11:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_09,Critical,2,2,Critical,0.99778205
+2025-04-21 12:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_07,At Risk,1,1,At Risk,0.83097726
+2025-04-21 12:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_10,Critical,2,2,Critical,0.99773455
+2025-04-21 12:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 12:00:00,Hive_06,At Risk,1,1,At Risk,0.5529571
+2025-04-21 12:00:00,Hive_08,At Risk,1,1,At Risk,0.7453281
+2025-04-21 13:00:00,Hive_06,At Risk,1,1,At Risk,0.5070874
+2025-04-21 13:00:00,Hive_07,At Risk,1,1,At Risk,0.851422
+2025-04-21 13:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 13:00:00,Hive_09,Critical,2,2,Critical,0.9978897
+2025-04-21 13:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 13:00:00,Hive_08,At Risk,1,1,At Risk,0.5883058
+2025-04-21 13:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 13:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 13:00:00,Hive_10,Critical,2,2,Critical,0.99792176
+2025-04-21 13:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 14:00:00,Hive_09,Critical,2,2,Critical,0.99764913
+2025-04-21 14:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 14:00:00,Hive_06,At Risk,1,1,At Risk,0.8097344
+2025-04-21 14:00:00,Hive_08,At Risk,1,1,At Risk,0.83671623
+2025-04-21 14:00:00,Hive_07,At Risk,1,1,At Risk,0.929801
+2025-04-21 14:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 14:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 14:00:00,Hive_10,Critical,2,2,Critical,0.997347
+2025-04-21 14:00:00,Hive_01,Healthy,0,0,Healthy,0.9996865
+2025-04-21 14:00:00,Hive_04,Healthy,0,0,Healthy,0.9996748
+2025-04-21 15:00:00,Hive_05,Healthy,0,0,Healthy,0.9996865
+2025-04-21 15:00:00,Hive_07,At Risk,1,1,At Risk,0.8978939
+2025-04-21 15:00:00,Hive_08,At Risk,1,1,At Risk,0.83092976
+2025-04-21 15:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 15:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 15:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 15:00:00,Hive_06,At Risk,1,1,At Risk,0.8765433
+2025-04-21 15:00:00,Hive_10,Critical,2,2,Critical,0.9977095
+2025-04-21 15:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 15:00:00,Hive_09,Critical,2,2,Critical,0.9969861
+2025-04-21 16:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 16:00:00,Hive_06,At Risk,1,1,At Risk,0.62459934
+2025-04-21 16:00:00,Hive_01,Healthy,0,0,Healthy,0.9996865
+2025-04-21 16:00:00,Hive_08,At Risk,1,1,At Risk,0.8696886
+2025-04-21 16:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 16:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 16:00:00,Hive_10,Critical,2,2,Critical,0.9976107
+2025-04-21 16:00:00,Hive_09,Critical,2,2,Critical,0.9935249
+2025-04-21 16:00:00,Hive_07,At Risk,1,1,At Risk,0.89717436
+2025-04-21 16:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_07,At Risk,1,1,At Risk,0.883831
+2025-04-21 17:00:00,Hive_10,Critical,2,2,Critical,0.9897914
+2025-04-21 17:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_08,At Risk,1,1,At Risk,0.89070743
+2025-04-21 17:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 17:00:00,Hive_06,At Risk,1,1,At Risk,0.88462734
+2025-04-21 17:00:00,Hive_09,Critical,2,2,Critical,0.99595994
+2025-04-21 18:00:00,Hive_09,Critical,2,2,Critical,0.99792176
+2025-04-21 18:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 18:00:00,Hive_10,Critical,2,2,Critical,0.99773127
+2025-04-21 18:00:00,Hive_05,Healthy,0,0,Healthy,0.9996846
+2025-04-21 18:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 18:00:00,Hive_08,At Risk,1,1,At Risk,0.7810358
+2025-04-21 18:00:00,Hive_01,Healthy,0,0,Healthy,0.9986816
+2025-04-21 18:00:00,Hive_07,At Risk,1,1,At Risk,0.89178103
+2025-04-21 18:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 18:00:00,Hive_06,At Risk,1,1,At Risk,0.863509
+2025-04-21 19:00:00,Hive_06,At Risk,1,1,At Risk,0.77341425
+2025-04-21 19:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 19:00:00,Hive_09,Critical,2,2,Critical,0.9976909
+2025-04-21 19:00:00,Hive_08,At Risk,1,1,At Risk,0.7895907
+2025-04-21 19:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 19:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 19:00:00,Hive_07,At Risk,1,1,At Risk,0.882995
+2025-04-21 19:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 19:00:00,Hive_01,Healthy,0,0,Healthy,0.99968135
+2025-04-21 19:00:00,Hive_10,Critical,2,2,Critical,0.99773777
+2025-04-21 20:00:00,Hive_01,Healthy,0,0,Healthy,0.99968135
+2025-04-21 20:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 20:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 20:00:00,Hive_02,Healthy,0,0,Healthy,0.99968135
+2025-04-21 20:00:00,Hive_09,Critical,2,2,Critical,0.99792176
+2025-04-21 20:00:00,Hive_10,Critical,2,2,Critical,0.9964683
+2025-04-21 20:00:00,Hive_08,At Risk,1,1,At Risk,0.7747802
+2025-04-21 20:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 20:00:00,Hive_06,At Risk,1,1,At Risk,0.83740896
+2025-04-21 20:00:00,Hive_07,At Risk,1,1,At Risk,0.90856934
+2025-04-21 21:00:00,Hive_10,Critical,2,2,Critical,0.9977658
+2025-04-21 21:00:00,Hive_08,At Risk,1,1,At Risk,0.845757
+2025-04-21 21:00:00,Hive_07,At Risk,1,1,At Risk,0.84503394
+2025-04-21 21:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 21:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 21:00:00,Hive_06,At Risk,1,1,At Risk,0.85893655
+2025-04-21 21:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 21:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 21:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 21:00:00,Hive_09,Critical,2,2,Critical,0.99781823
+2025-04-21 22:00:00,Hive_07,At Risk,1,1,At Risk,0.88119906
+2025-04-21 22:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 22:00:00,Hive_08,At Risk,1,1,At Risk,0.8626612
+2025-04-21 22:00:00,Hive_06,At Risk,1,1,At Risk,0.86094373
+2025-04-21 22:00:00,Hive_09,Critical,2,2,Critical,0.993749
+2025-04-21 22:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 22:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 22:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 22:00:00,Hive_10,Critical,2,2,Critical,0.9958528
+2025-04-21 22:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_10,Critical,2,2,Critical,0.99773777
+2025-04-21 23:00:00,Hive_09,Critical,2,2,Critical,0.9976283
+2025-04-21 23:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_07,At Risk,1,1,At Risk,0.8819415
+2025-04-21 23:00:00,Hive_08,At Risk,1,1,At Risk,0.6886872
+2025-04-21 23:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-21 23:00:00,Hive_06,At Risk,1,1,At Risk,0.7673522
+2025-04-22 00:00:00,Hive_06,At Risk,1,1,At Risk,0.831791
+2025-04-22 00:00:00,Hive_07,At Risk,1,2,Critical,0.8375422
+2025-04-22 00:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 00:00:00,Hive_10,Critical,2,2,Critical,0.99712354
+2025-04-22 00:00:00,Hive_09,Critical,2,2,Critical,0.9925466
+2025-04-22 00:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 00:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 00:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 00:00:00,Hive_08,At Risk,1,1,At Risk,0.88547516
+2025-04-22 00:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 01:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 01:00:00,Hive_07,At Risk,1,1,At Risk,0.59691703
+2025-04-22 01:00:00,Hive_06,At Risk,1,1,At Risk,0.87261456
+2025-04-22 01:00:00,Hive_09,Critical,2,2,Critical,0.9966775
+2025-04-22 01:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 01:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 01:00:00,Hive_08,At Risk,1,1,At Risk,0.88594186
+2025-04-22 01:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 01:00:00,Hive_10,Critical,2,2,Critical,0.99791557
+2025-04-22 01:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 02:00:00,Hive_06,At Risk,1,1,At Risk,0.92926913
+2025-04-22 02:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 02:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 02:00:00,Hive_10,Critical,2,2,Critical,0.98487514
+2025-04-22 02:00:00,Hive_07,At Risk,1,1,At Risk,0.9367685
+2025-04-22 02:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 02:00:00,Hive_08,At Risk,1,1,At Risk,0.6902313
+2025-04-22 02:00:00,Hive_09,Critical,2,2,Critical,0.99773777
+2025-04-22 02:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 02:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 03:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 03:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 03:00:00,Hive_09,Critical,2,2,Critical,0.9977094
+2025-04-22 03:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 03:00:00,Hive_10,Critical,2,2,Critical,0.98654443
+2025-04-22 03:00:00,Hive_08,At Risk,1,1,At Risk,0.9065462
+2025-04-22 03:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 03:00:00,Hive_07,At Risk,1,2,Critical,0.78952825
+2025-04-22 03:00:00,Hive_06,At Risk,1,1,At Risk,0.94085515
+2025-04-22 03:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 04:00:00,Hive_07,At Risk,1,1,At Risk,0.7350812
+2025-04-22 04:00:00,Hive_09,Critical,2,2,Critical,0.9979096
+2025-04-22 04:00:00,Hive_08,At Risk,1,1,At Risk,0.9161988
+2025-04-22 04:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 04:00:00,Hive_06,At Risk,1,1,At Risk,0.93529516
+2025-04-22 04:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 04:00:00,Hive_10,Critical,2,2,Critical,0.9978587
+2025-04-22 04:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 04:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 04:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 05:00:00,Hive_09,Critical,2,2,Critical,0.9977654
+2025-04-22 05:00:00,Hive_10,Critical,2,2,Critical,0.997815
+2025-04-22 05:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 05:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 05:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 05:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 05:00:00,Hive_06,At Risk,1,1,At Risk,0.99473155
+2025-04-22 05:00:00,Hive_08,At Risk,1,1,At Risk,0.92810005
+2025-04-22 05:00:00,Hive_07,At Risk,1,1,At Risk,0.9204454
+2025-04-22 05:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 06:00:00,Hive_08,Healthy,0,0,Healthy,0.9256666
+2025-04-22 06:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 06:00:00,Hive_04,Healthy,0,0,Healthy,0.9996793
+2025-04-22 06:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 06:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 06:00:00,Hive_10,Critical,2,2,Critical,0.9977584
+2025-04-22 06:00:00,Hive_06,Healthy,0,0,Healthy,0.9926231
+2025-04-22 06:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 06:00:00,Hive_07,Healthy,0,0,Healthy,0.9136074
+2025-04-22 06:00:00,Hive_09,Critical,2,2,Critical,0.9978241
+2025-04-22 07:00:00,Hive_08,Healthy,0,0,Healthy,0.9828608
+2025-04-22 07:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 07:00:00,Hive_09,Critical,2,2,Critical,0.9974898
+2025-04-22 07:00:00,Hive_07,Healthy,0,0,Healthy,0.9115279
+2025-04-22 07:00:00,Hive_06,Healthy,0,0,Healthy,0.996409
+2025-04-22 07:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 07:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 07:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 07:00:00,Hive_10,Critical,2,2,Critical,0.9977963
+2025-04-22 07:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 08:00:00,Hive_06,Healthy,0,0,Healthy,0.9974669
+2025-04-22 08:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 08:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 08:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 08:00:00,Hive_02,Healthy,0,0,Healthy,0.99968135
+2025-04-22 08:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 08:00:00,Hive_09,Critical,2,2,Critical,0.9974099
+2025-04-22 08:00:00,Hive_07,Healthy,0,0,Healthy,0.96798867
+2025-04-22 08:00:00,Hive_10,Critical,2,2,Critical,0.99378806
+2025-04-22 08:00:00,Hive_08,Healthy,0,0,Healthy,0.9922071
+2025-04-22 09:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 09:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 09:00:00,Hive_09,Critical,2,2,Critical,0.99550253
+2025-04-22 09:00:00,Hive_06,Healthy,0,0,Healthy,0.99799514
+2025-04-22 09:00:00,Hive_07,Healthy,0,0,Healthy,0.9931351
+2025-04-22 09:00:00,Hive_10,Critical,2,2,Critical,0.996983
+2025-04-22 09:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 09:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 09:00:00,Hive_08,Healthy,0,0,Healthy,0.99787366
+2025-04-22 09:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 10:00:00,Hive_08,Healthy,0,0,Healthy,0.9980172
+2025-04-22 10:00:00,Hive_07,Healthy,0,0,Healthy,0.9929563
+2025-04-22 10:00:00,Hive_09,Critical,2,2,Critical,0.9974185
+2025-04-22 10:00:00,Hive_10,Critical,2,2,Critical,0.99792176
+2025-04-22 10:00:00,Hive_06,Healthy,0,0,Healthy,0.9980246
+2025-04-22 11:00:00,Hive_07,Healthy,0,0,Healthy,0.9973896
+2025-04-22 11:00:00,Hive_09,Critical,2,2,Critical,0.9971419
+2025-04-22 11:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 11:00:00,Hive_06,Healthy,0,0,Healthy,0.9994134
+2025-04-22 11:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 11:00:00,Hive_08,Healthy,0,0,Healthy,0.99946445
+2025-04-22 11:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 11:00:00,Hive_04,Healthy,0,0,Healthy,0.9996778
+2025-04-22 11:00:00,Hive_10,Critical,2,2,Critical,0.9972984
+2025-04-22 11:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 12:00:00,Hive_09,Critical,2,2,Critical,0.9976342
+2025-04-22 12:00:00,Hive_05,Healthy,0,0,Healthy,0.99968135
+2025-04-22 12:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 12:00:00,Hive_10,Critical,2,2,Critical,0.9946439
+2025-04-22 12:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 12:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 12:00:00,Hive_06,Healthy,0,0,Healthy,0.9994733
+2025-04-22 12:00:00,Hive_08,Healthy,0,0,Healthy,0.9993216
+2025-04-22 12:00:00,Hive_03,Healthy,0,0,Healthy,0.9996865
+2025-04-22 12:00:00,Hive_07,Healthy,0,0,Healthy,0.99765587
+2025-04-22 13:00:00,Hive_07,Healthy,0,0,Healthy,0.99769586
+2025-04-22 13:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 13:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 13:00:00,Hive_10,Critical,2,2,Critical,0.9978079
+2025-04-22 13:00:00,Hive_03,Healthy,0,0,Healthy,0.99966216
+2025-04-22 13:00:00,Hive_05,Healthy,0,0,Healthy,0.9996877
+2025-04-22 13:00:00,Hive_09,Critical,2,2,Critical,0.99792176
+2025-04-22 13:00:00,Hive_06,Healthy,0,0,Healthy,0.99946886
+2025-04-22 13:00:00,Hive_08,Healthy,0,0,Healthy,0.99934214
+2025-04-22 13:00:00,Hive_02,Healthy,0,0,Healthy,0.9996865
+2025-04-22 14:00:00,Hive_07,Healthy,0,0,Healthy,0.9977392
+2025-04-22 14:00:00,Hive_04,Healthy,0,0,Healthy,0.9996823
+2025-04-22 14:00:00,Hive_02,Healthy,0,0,Healthy,0.9996877
+2025-04-22 14:00:00,Hive_09,Critical,2,2,Critical,0.99765885
+2025-04-22 14:00:00,Hive_06,Healthy,0,0,Healthy,0.99935764
+2025-04-22 14:00:00,Hive_03,Healthy,0,0,Healthy,0.9996865
+2025-04-22 14:00:00,Hive_10,Critical,2,2,Critical,0.9979176
+2025-04-22 14:00:00,Hive_05,Healthy,0,0,Healthy,0.9996865
+2025-04-22 14:00:00,Hive_01,Healthy,0,0,Healthy,0.9996877
+2025-04-22 14:00:00,Hive_08,Healthy,0,0,Healthy,0.9976999
+2025-04-22 15:00:00,Hive_05,Healthy,0,0,Healthy,0.99968505
+2025-04-22 15:00:00,Hive_08,Healthy,0,0,Healthy,0.9977842
+2025-04-22 15:00:00,Hive_07,Healthy,0,0,Healthy,0.997821
+2025-04-22 15:00:00,Hive_06,Healthy,0,0,Healthy,0.99948823
+2025-04-22 15:00:00,Hive_04,Healthy,0,0,Healthy,0.9996877
+2025-04-22 15:00:00,Hive_03,Healthy,0,0,Healthy,0.9996877
+2025-04-22 15:00:00,Hive_02,Healthy,0,0,Healthy,0.99968505
+2025-04-22 15:00:00,Hive_01,Healthy,0,0,Healthy,0.99967813
+2025-04-22 15:00:00,Hive_09,Critical,2,2,Critical,0.9978124
+2025-04-22 15:00:00,Hive_10,Critical,2,2,Critical,0.99580306

@@ -1,0 +1,16 @@
+feature,gain_importance,weight_importance,cover_importance,mean_abs_shap
+internal_humidity_pct,48.9684,505,116.4218,0.0
+acoustic_freq_hz,34.5407,424,98.4237,0.0
+acoustic_rolling_mean_6h,31.2652,210,110.8412,0.0
+temp_rolling_std_24h,29.3394,218,107.0695,0.0
+temp_rolling_mean_24h,18.9538,217,107.5015,0.0
+day_of_week,6.281,142,42.4428,0.0
+weight_delta_24h,3.245,120,55.3666,0.0
+internal_temp_c,2.1734,288,73.3979,0.0
+activity_count,2.0757,44,52.6197,0.0
+humidity_diff,1.4379,47,99.4519,0.0
+external_humidity_pct,0.4844,13,7.979,0.0
+hive_weight_kg,0.3325,10,59.7459,0.0
+external_temp_c,0.2524,6,7.9049,0.0
+temp_diff,0.2036,14,28.1789,0.0
+hour_of_day,0.0,0,0.0,0.0

@@ -1,0 +1,15 @@
+{
+  "name": "honeychain-contracts",
+  "version": "1.0.0",
+  "description": "HoneyChain Solidity Smart Contracts & Hardhat Environment",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost",
+    "node": "npx hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.18"
+  }
+}

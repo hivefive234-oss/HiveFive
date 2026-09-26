@@ -1,0 +1,36 @@
+{
+  "accuracy": 0.9897,
+  "precision_macro": 0.9817,
+  "recall_macro": 0.9845,
+  "f1_macro": 0.9831,
+  "precision_weighted": 0.9898,
+  "recall_weighted": 0.9897,
+  "f1_weighted": 0.9898,
+  "roc_auc_macro": 0.9988,
+  "confusion_matrix": [
+    [
+      420,
+      0,
+      0
+    ],
+    [
+      0,
+      113,
+      3
+    ],
+    [
+      0,
+      5,
+      239
+    ]
+  ],
+  "class_mapping": {
+    "0": "Healthy",
+    "1": "At Risk",
+    "2": "Critical"
+  },
+  "total_samples": 5200,
+  "train_samples": 3640,
+  "val_samples": 780,
+  "test_samples": 780
+}

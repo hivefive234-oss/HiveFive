@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\balaj\\OneDrive\\Desktop\\Hivefive\\blockchain\\contracts\\HoneyChainRegistry.sol": {
+      "lastModificationDate": 1790086614109,
+      "contentHash": "3cb2bb29f45bab0411ed1a1548c5d6f0",
+      "sourceName": "contracts/HoneyChainRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "HoneyChainRegistry"
+      ]
+    }
+  }
+}

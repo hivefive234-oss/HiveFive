@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# YOLO / ML outputs
+runs/
+wandb/
+
+# Large datasets
+Hive_AI_Datasets/BoB/original/bob_publication_data.zip
+
+# Other large archives
+*.zip
+*.7z
+*.rar
+
+# Large model files
+*.pt
+*.onnx
